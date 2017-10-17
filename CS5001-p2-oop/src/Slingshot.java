@@ -1,4 +1,4 @@
 
-public class Slingshot {
+public class Slingshot extends Tower {
 
 }
